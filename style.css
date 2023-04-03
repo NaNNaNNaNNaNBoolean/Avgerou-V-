@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+#title{
+    color: blue
+}
+
+.border_blue{
+    border: 2px solid blue
+}
